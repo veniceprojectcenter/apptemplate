@@ -3,8 +3,7 @@ var app = angular.module('app', [
   'pascalprecht.translate',
   'ngMaterial',
   'ngMap',
-  'firebase',
-  'tc.chartjs'
+  'firebase'
 ]);
 
 app
